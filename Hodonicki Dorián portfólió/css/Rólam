@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Portfólió - Hodonicki Dorián</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+
+<body class="Maradék">
+	<header> 
+		<a href="index.html" class="Menü">Föoldal</a> | 
+		<a href="Rólam.html" class="Menü">Rólam</a> | 
+		<a href="Munkáim.html" class="Menü">Munkáim</a> | 
+		<a href="Tervezés.html" class="Menü">Tervezés</a>
+	</header>
+
+	<main class="teszt">
+		Ide kéne valami szöveg még.
+
+	</main>
+
+	<footer>
+		
+		Lábjegyzet, PL: e-mail: Kérlek ne keress. Tel.: De tényleg ne.
+	</footer>
+
+
+
+</body>
+
+</html>
